@@ -34,7 +34,7 @@
     "otherNight": 0,
     "setup": false,
     "ability": "На початку гри ви знаєте трьох персонажів, один і лише один із них — червоний.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/legolas.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/legol.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -47,7 +47,7 @@
     "otherNight": 0,
     "setup": false,
     "ability": "Ти одразу знаєш, чи найближчий злий гравець за чи проти годинникової стрілки від тебе.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/bilbo.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/bilbo.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -62,7 +62,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Щоночі ти дізнаєшся, яка сторона на думку Оповідача перемагає.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/elrond.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/elrond.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -77,7 +77,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Щоночі обирай гравця: ти дізнаєшся їх команду. [+0 до +2 Піпіна. 1 з додаткових - п'яний]",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/pipin.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/pipin.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -92,7 +92,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Щоночі, якщо живих не більше мертвих, дізнайся живого персонажа. Демон знає, хто ти.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/aragorn.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/aragorn.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -109,7 +109,7 @@
     ],
     "setup": false,
     "ability": "Щоночі* обирай гравця (не себе); цієї ночі їх захищено від Демона.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/faramir.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/faramir.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -124,7 +124,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Раз на день, якщо публічно вгадаєш, які гравці є Міньйонами, а які — Демонами, добро перемагає.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/gala.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/galadr.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -142,7 +142,7 @@
     ],
     "setup": false,
     "ability": "Раз за гру, вночі, обери доброго персонажа: ти отримуєш їхню здібність. Якщо обраний персонаж у грі, вони п'яні.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/tree.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/treebeard.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -159,7 +159,7 @@
     ],
     "setup": false,
     "ability": "Раз за гру, вночі, обери живого гравця: обраний Фродо стає Міщанином, якого немає у грі. [+Фродо]",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/sem.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/sam.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -176,7 +176,7 @@
     ],
     "setup": false,
     "ability": "Раз за гру, протягом дня, публічно обери гравця: якщо це Демон - той помирає.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/eowyn.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/eowyn.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -193,7 +193,7 @@
     ],
     "setup": false,
     "ability": "Ти маєш здібність Міньона не в грі.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/gand.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/gandalf.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -208,7 +208,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Якщо Демон уб'є Арагорна, ти дізнаєшся, хто Демон. [+Арагорн]",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/arven.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/arwen.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -225,7 +225,7 @@
     ],
     "setup": false,
     "ability": "Щоночі обирай гравця (не себе); ти можеш голосувати лише коли вони теж голосують.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/marry.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/merry.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -242,7 +242,7 @@
     ],
     "setup": false,
     "ability": "Щоночі перший гравець, що обрав тебе своєю здібністю, п'яний до сутінок. Ти переходиш на їхній бік.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/golum.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/gollum.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -257,7 +257,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Якщо ти - головна причина вашої поразки, ти змінюєш сторону і перемагаєш, навіть після смерті.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/denethor.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/denethor.png",
     "remindersGlobal": []
   },
   {
@@ -272,7 +272,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Якщо серед живих є 5 або більше гравців, ви повинні проголосувати за кожну номінацію.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/boromir.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/borom.png",
     "remindersGlobal": []
   },
   {
@@ -287,7 +287,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Всі Міньони знають, що ти в грі. Якщо Міньони з першого разу знайдуть тебе, твоя команда програє.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/frodo.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/frodo.png",
     "remindersGlobal": []
   },
   {
@@ -304,7 +304,7 @@
     ],
     "setup": false,
     "ability": "Щоночі обирай гравця; їх отруєно цієї ночі та наступного дня.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/grim.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/grimma.png",
     "remindersGlobal": []
   },
   {
@@ -319,7 +319,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Раз за гру, вночі*, обери гравця: вони помирають, навіть якщо чомусь не можуть.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/Balrog.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/balrog.png",
     "remindersGlobal": []
   },
   {
@@ -336,7 +336,7 @@
     ],
     "setup": false,
     "ability": "Твоєї першої ночі загляни в Ґримуар і обери гравця: його отруєно. Один добрий гравець знає, що Чорна Вдова у грі.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/shelob.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/shelob.png",
     "remindersGlobal": []
   },
   {
@@ -353,7 +353,7 @@
     ],
     "setup": false,
     "ability": "Тобі здається, що ти — добрий персонаж, але це не так. Демон знає, хто ти. [Ти сидиш поруч із Демоном]",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/saruman.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/saruman.png",
     "remindersGlobal": []
   },
   {
@@ -371,7 +371,7 @@
     ],
     "setup": false,
     "ability": "Щоночі Міньйони вирішують, хто носить кільце і є Демоном. Щоночі* один гравець може померти. [+1 Міньйон]",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/ring.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/onering.png",
     "remindersGlobal": []
   },
   {
@@ -388,7 +388,7 @@
     ],
     "setup": false,
     "ability": "Щоночі* обирай персонажа; вони помирають. Якщо персонажа немає у грі, Оповідач обирає, хто помре.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/Oko.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/oko.png",
     "remindersGlobal": []
   },
   {
@@ -405,7 +405,7 @@
     ],
     "setup": false,
     "ability": "Щоночі* один гравець може померти. Страта провалюється, якщо лише зло проголосувало за неї. Ти також вважаєшся Міньйоном. [Більшість гравців — Урук-Хай]",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/Uruk.jpg?raw=true",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/uruk.png",
     "remindersGlobal": []
   }
 ]
