@@ -257,7 +257,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Якщо ти - головна причина вашої поразки, ти змінюєш сторону і перемагаєш, навіть після смерті.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/denethor.png",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/denethor.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -272,7 +272,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Якщо серед живих є 5 або більше гравців, ви повинні проголосувати за кожну номінацію.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/borom.png",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/borom.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -287,7 +287,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Всі Міньони знають, що ти в грі. Якщо Міньони з першого разу знайдуть тебе, твоя команда програє.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/frodo.png",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/frodo.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -304,7 +304,7 @@
     ],
     "setup": false,
     "ability": "Щоночі обирай гравця; їх отруєно цієї ночі та наступного дня.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/grimma.png",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/grimma.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -319,7 +319,7 @@
     "reminders": [],
     "setup": false,
     "ability": "Раз за гру, вночі*, обери гравця: вони помирають, навіть якщо чомусь не можуть.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/balrog.png",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/balrog.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -336,7 +336,7 @@
     ],
     "setup": false,
     "ability": "Твоєї першої ночі загляни в Ґримуар і обери гравця: його отруєно. Один добрий гравець знає, що Чорна Вдова у грі.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/shelob.png",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/shelob.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -353,7 +353,7 @@
     ],
     "setup": false,
     "ability": "Тобі здається, що ти — добрий персонаж, але це не так. Демон знає, хто ти. [Ти сидиш поруч із Демоном]",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/saruman.png",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/saruman.png?raw=true",
     "remindersGlobal": []
   },
   {
