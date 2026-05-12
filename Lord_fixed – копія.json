@@ -189,7 +189,7 @@
     "otherNight": 0,
     "otherNightReminder": "",
     "reminders": [
-      "Насправді алхімік"
+      "Насправді Гендальф"
     ],
     "setup": false,
     "ability": "Ти маєш здібність Міньона не в грі.",
@@ -216,10 +216,10 @@
     "name": "Меріадок",
     "edition": "",
     "team": "outsider",
-    "firstNight": 13,
-    "firstNightReminder": "Оберіть майстра.",
-    "otherNight": 14,
-    "otherNightReminder": "Оберіть майстра.",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
     "reminders": [
       "Витрачено",
       "П'яний"
@@ -255,7 +255,10 @@
     "firstNightReminder": "",
     "otherNight": 0,
     "otherNightReminder": "",
-    "reminders": [],
+    "reminders": [
+      "Перша номінація",
+      "Тепер Злий"
+    ],
     "setup": false,
     "ability": "Якщо твоя перша номінація за гру призводить до страти доброго персонажа, ти автоматично переходиш на бік зла.",
     "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/denethor.png?raw=true",
@@ -329,14 +332,14 @@
     "edition": "",
     "team": "minion",
     "firstNight": 10,
-    "firstNightReminder": "Твоєї першої ночі загляни в Ґримуар і обери гравців: їх сплутано. Один добрий гравець знає, що Шелоб у грі.",
-    "otherNight": 0,
-    "otherNightReminder": "",
+    "firstNightReminder": "Обери 2х гравців: їх сплутано.",
+    "otherNight": 10,
+    "otherNightReminder": "Обери 2х гравців: їх сплутано.",
     "reminders": [
-      "Отруєно"
+      "Використано"
     ],
     "setup": false,
-    "ability": "Твоєї першої ночі загляни в Ґримуар і обери гравців: їх сплутано - (усі здібності, спрямовані на одного, діють на іншого.). Один добрий гравець знає, що Шелоб у грі.",
+    "ability": "Раз за гру вночі обери двох гравців: їх сплутано - (усі здібності, спрямовані на одного, діють на іншого.)",
     "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/shelob.png?raw=true",
     "remindersGlobal": []
   },
@@ -346,14 +349,12 @@
     "edition": "",
     "team": "minion",
     "firstNight": 7,
-    "firstNightReminder": "Якщо ти повинен діяти, зроби вигляд, що дієш.",
+    "firstNightReminder": "Покажи гримуар",
     "otherNight": 5,
-    "otherNightReminder": "Якщо ти повинен діяти, зроби вигляд, що дієш.",
-    "reminders": [
-      "Насправді Саруман"
-    ],
+    "otherNightReminder": "Покажи гримуар",
+    "reminders": [],
     "setup": false,
-    "ability": "Тобі здається, що ти — добрий персонаж, але це не так. Демон знає, хто ти. [Ти сидиш поруч із Демоном]",
+    "ability": "Щоночі ви бачите Палантир. Ви можете здаватись добрим городянином чи чужинцем, навіть після смерті",
     "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/saruman.png?raw=true",
     "remindersGlobal": []
   },
