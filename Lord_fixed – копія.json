@@ -371,7 +371,7 @@
     ],
     "setup": false,
     "ability": "Щоночі Міньйони вирішують, хто носить кільце і є Демоном. Щоночі* один гравець може померти. [+1 Міньйон]",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/onering.png",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/onering.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -388,7 +388,7 @@
     ],
     "setup": false,
     "ability": "Щоночі* обирай персонажа; вони помирають. Якщо персонажа немає у грі, Оповідач обирає, хто помре.",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/oko.png",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/oko.png?raw=true",
     "remindersGlobal": []
   },
   {
@@ -405,7 +405,7 @@
     ],
     "setup": false,
     "ability": "Щоночі* один гравець може померти. Страта провалюється, якщо лише зло проголосувало за неї. Ти також вважаєшся Міньйоном. [Більшість гравців — Урук-Хай]",
-    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/uruk.png",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/uruk.png?raw=true",
     "remindersGlobal": []
   }
 ]
