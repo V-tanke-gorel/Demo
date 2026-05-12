@@ -1,0 +1,411 @@
+[
+  {
+    "id": "_meta",
+    "author": "Pablo",
+    "name": "Lord of the clocktower"
+  },
+  {
+    "id": "gimli_uk",
+    "name": "Гімлі",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 14,
+    "firstNightReminder": "Ви починаєте гру знаючи двох гравців, жоден із них не Демон.",
+    "reminders": [
+      "Не демон"
+    ],
+    "otherNight": 0,
+    "setup": false,
+    "ability": "Ви починаєте гру знаючи двох гравців, жоден із них не Демон.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/copil/gimli.png?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "legolas_uk",
+    "name": "Леголас",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 15,
+    "firstNightReminder": "На початку гри ви знаєте трьох персонажів, один і лише один із них — червоний.",
+    "reminders": [
+      "Синій",
+      "Червоний"
+    ],
+    "otherNight": 0,
+    "setup": false,
+    "ability": "На початку гри ви знаєте трьох персонажів, один і лише один із них — червоний.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/legolas.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "bilbo_uk",
+    "name": "Більбо",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 16,
+    "firstNightReminder": "Ти одразу знаєш, чи найближчий злий гравець за чи проти годинникової стрілки від тебе. Якщо однаково — дані випадкові.",
+    "otherNight": 0,
+    "setup": false,
+    "ability": "Ти одразу знаєш, чи найближчий злий гравець за чи проти годинникової стрілки від тебе.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/bilbo.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "elrond_uk",
+    "name": "Елронд",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 18,
+    "firstNightReminder": "Щоночі ти дізнаєшся, яка сторона, на думку Оповідача, перемагає: добро, зло чи жодна.",
+    "otherNight": 15,
+    "otherNightReminder": "Щоночі ти дізнаєшся, яка сторона, на думку Оповідача, перемагає: добро, зло чи жодна.",
+    "reminders": [],
+    "setup": false,
+    "ability": "Щоночі ти дізнаєшся, яка сторона на думку Оповідача перемагає.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/elrond.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "pippin_uk",
+    "name": "Піпін",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 17,
+    "firstNightReminder": "Щоночі обирай гравця: ти дізнаєшся їхню команду.",
+    "otherNight": 12,
+    "otherNightReminder": "Щоночі обирай гравця: ти дізнаєшся їхню команду.",
+    "reminders": [],
+    "setup": false,
+    "ability": "Щоночі обирай гравця: ти дізнаєшся їх команду. [+0 до +2 Піпіна. 1 з додаткових - п'яний]",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/pipin.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "aragorn_uk",
+    "name": "Арагорн",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 6,
+    "firstNightReminder": "Щоночі, якщо живих не більше мертвих, дізнайся живого персонажа.",
+    "otherNight": 13,
+    "otherNightReminder": "Щоночі, якщо живих не більше мертвих, дізнайся живого персонажа.",
+    "reminders": [],
+    "setup": false,
+    "ability": "Щоночі, якщо живих не більше мертвих, дізнайся живого персонажа. Демон знає, хто ти.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/aragorn.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "faramir_uk",
+    "name": "Фарамір",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 4,
+    "otherNightReminder": "Щоночі* обирай гравця (не себе); цієї ночі їх захищено від Демона.",
+    "reminders": [
+      "Захищено"
+    ],
+    "setup": false,
+    "ability": "Щоночі* обирай гравця (не себе); цієї ночі їх захищено від Демона.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/faramir.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "galadriel_uk",
+    "name": "Галадріель",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "setup": false,
+    "ability": "Раз на день, якщо публічно вгадаєш, які гравці є Міньйонами, а які — Демонами, добро перемагає.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/gala.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "treebeard_uk",
+    "name": "Деревобородий",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 2,
+    "firstNightReminder": "Раз за гру, вночі, обери доброго персонажа: ти отримуєш їхню здібність. Якщо обраний персонаж у грі, вони п'яні.",
+    "otherNight": 2,
+    "otherNightReminder": "Раз за гру, вночі, обери доброго персонажа: ти отримуєш їхню здібність. Якщо обраний персонаж у грі, вони п'яні.",
+    "reminders": [
+      "Використав",
+      "П'яний"
+    ],
+    "setup": false,
+    "ability": "Раз за гру, вночі, обери доброго персонажа: ти отримуєш їхню здібність. Якщо обраний персонаж у грі, вони п'яні.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/tree.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "samwise_uk",
+    "name": "Сем",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 11,
+    "firstNightReminder": "Раз за гру, вночі, обери живого гравця: обраний Фродо стає Міщанином, якого немає у грі.",
+    "otherNight": 10,
+    "otherNightReminder": "Раз за гру, вночі, обери живого гравця: обраний Фродо стає Міщанином, якого немає у грі.",
+    "reminders": [
+      "Використав"
+    ],
+    "setup": false,
+    "ability": "Раз за гру, вночі, обери живого гравця: обраний Фродо стає Міщанином, якого немає у грі. [+Фродо]",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/sem.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "eowyn_uk",
+    "name": "Еовін",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [
+      "Стріляла"
+    ],
+    "setup": false,
+    "ability": "Раз за гру, протягом дня, публічно обери гравця: якщо це Демон - той помирає.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/eowyn.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "gandalf_uk",
+    "name": "Гендальф",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 3,
+    "firstNightReminder": "Ти маєш здібність Міньона не в грі.",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [
+      "Насправді алхімік"
+    ],
+    "setup": false,
+    "ability": "Ти маєш здібність Міньона не в грі.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/gand.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "arwen_uk",
+    "name": "Арвен",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 9,
+    "otherNightReminder": "Якщо Демон уб'є Арагорна, ти дізнаєшся, хто Демон.",
+    "reminders": [],
+    "setup": false,
+    "ability": "Якщо Демон уб'є Арагорна, ти дізнаєшся, хто Демон. [+Арагорн]",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/arven.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "merry_uk",
+    "name": "Меріадок",
+    "edition": "",
+    "team": "outsider",
+    "firstNight": 13,
+    "firstNightReminder": "Оберіть майстра.",
+    "otherNight": 14,
+    "otherNightReminder": "Оберіть майстра.",
+    "reminders": [
+      "Майстер"
+    ],
+    "setup": false,
+    "ability": "Щоночі обирай гравця (не себе); ти можеш голосувати лише коли вони теж голосують.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/marry.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "gollum_uk",
+    "name": "Смеагол",
+    "edition": "",
+    "team": "outsider",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [
+      "П'яний"
+    ],
+    "setup": false,
+    "ability": "Щоночі перший гравець, що обрав тебе своєю здібністю, п'яний до сутінок. Ти переходиш на їхній бік.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/golum.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "denethor_uk",
+    "name": "Денетор",
+    "edition": "",
+    "team": "outsider",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "setup": false,
+    "ability": "Якщо ти - головна причина вашої поразки, ти змінюєш сторону і перемагаєш, навіть після смерті.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/denethor.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "boromir_uk",
+    "name": "Боромір",
+    "edition": "",
+    "team": "outsider",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "setup": false,
+    "ability": "Якщо серед живих є 5 або більше гравців, ви повинні проголосувати за кожну номінацію.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/boromir.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "frodo_uk",
+    "name": "Фродо",
+    "edition": "",
+    "team": "outsider",
+    "firstNight": 12,
+    "firstNightReminder": "Покажіть Міньйонам, що Фродо у грі.",
+    "otherNight": 11,
+    "otherNightReminder": "",
+    "reminders": [],
+    "setup": false,
+    "ability": "Всі Міньони знають, що ти в грі. Якщо Міньони з першого разу знайдуть тебе, твоя команда програє.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/frodo.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "wormtongue_uk",
+    "name": "Ґріма Червослов",
+    "edition": "",
+    "team": "minion",
+    "firstNight": 9,
+    "firstNightReminder": "Щоночі обирай гравця; їх отруєно цієї ночі та наступного дня.",
+    "otherNight": 3,
+    "otherNightReminder": "Щоночі обирай гравця; їх отруєно цієї ночі та наступного дня.",
+    "reminders": [
+      "Отруєно"
+    ],
+    "setup": false,
+    "ability": "Щоночі обирай гравця; їх отруєно цієї ночі та наступного дня.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/grim.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "balrog_uk",
+    "name": "Бальрог",
+    "edition": "",
+    "team": "minion",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 8,
+    "otherNightReminder": "Раз за гру, вночі*, обери гравця: вони помирають, навіть якщо чомусь не можуть.",
+    "reminders": [],
+    "setup": false,
+    "ability": "Раз за гру, вночі*, обери гравця: вони помирають, навіть якщо чомусь не можуть.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/Balrog.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "shelob_uk",
+    "name": "Шелоб",
+    "edition": "",
+    "team": "minion",
+    "firstNight": 10,
+    "firstNightReminder": "Твоєї першої ночі загляни в Ґримуар і обери гравця: його отруєно. Один добрий гравець знає, що Шелоб у грі.",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [
+      "Отруєно"
+    ],
+    "setup": false,
+    "ability": "Твоєї першої ночі загляни в Ґримуар і обери гравця: його отруєно. Один добрий гравець знає, що Чорна Вдова у грі.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/shelob.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "saruman_uk",
+    "name": "Саруман",
+    "edition": "",
+    "team": "minion",
+    "firstNight": 7,
+    "firstNightReminder": "Якщо ти повинен діяти, зроби вигляд, що дієш.",
+    "otherNight": 5,
+    "otherNightReminder": "Якщо ти повинен діяти, зроби вигляд, що дієш.",
+    "reminders": [
+      "Насправді маріонетка"
+    ],
+    "setup": false,
+    "ability": "Тобі здається, що ти — добрий персонаж, але це не так. Демон знає, хто ти. [Ти сидиш поруч із Демоном]",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/saruman.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "theOneRing_uk",
+    "name": "Єдине кільце",
+    "edition": "",
+    "team": "demon",
+    "firstNight": 8,
+    "firstNightReminder": "Розбудіть усіх Міньйонів; дозвольте їм проголосувати (вказуючи), хто носитиме кільце.",
+    "otherNight": 7,
+    "otherNightReminder": "Розбудіть усіх Міньйонів; дозвольте їм проголосувати (вказуючи), хто носитиме кільце. Оберіть гравця; вони помирають.",
+    "reminders": [
+      "Демон",
+      "Помре"
+    ],
+    "setup": false,
+    "ability": "Щоночі Міньйони вирішують, хто носить кільце і є Демоном. Щоночі* один гравець може померти. [+1 Міньйон]",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/ring.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "theEyeofSauron_uk",
+    "name": "Око Саурона",
+    "edition": "",
+    "team": "demon",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 6,
+    "otherNightReminder": "Око обирає персонажа зі списку; якщо він у грі, цей гравець помирає. Якщо персонажа немає у грі, Оповідач вирішує, хто помре.",
+    "reminders": [
+      "Помре"
+    ],
+    "setup": false,
+    "ability": "Щоночі* обирай персонажа; вони помирають. Якщо персонажа немає у грі, Оповідач обирає, хто помре.",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/Oko.jpg?raw=true",
+    "remindersGlobal": []
+  },
+  {
+    "id": "urukhai_uk",
+    "name": "Урук-Хай",
+    "edition": "",
+    "team": "demon",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 5,
+    "otherNightReminder": "Оберіть гравця: вони помирають.",
+    "reminders": [
+      "Помре"
+    ],
+    "setup": false,
+    "ability": "Щоночі* один гравець може померти. Страта провалюється, якщо лише зло проголосувало за неї. Ти також вважаєшся Міньйоном. [Більшість гравців — Урук-Хай]",
+    "image": "https://github.com/V-tanke-gorel/Demo/blob/lord/Uruk.jpg?raw=true",
+    "remindersGlobal": []
+  }
+]
